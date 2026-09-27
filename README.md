@@ -1,25 +1,27 @@
-# Hi there! I'm Ewa
-I am a web developer, who loves continuously developing herself and putting the newly aquired skills to work. In my recent job I had an oportunity to get to know IT industry from different sides - I've been fixing and upgrading computers, setting up networks, designing marketing materials, creating websites (static and based on WordPress), providing support and implementing software solutions in local companies. While the last couple of years were an amazing journey for me, now **I would like to focus solely on the front-end development, which had always given me the most joy and satisfaction**.
+### Hi there!
 
-I finished **postgraduate studies on Computer Programming at the West Pomerian University of Technology in Szczecin**, where I was learning Python and fundamentals of Computer Science. Part of the last semester was focused on Web Development (HTML, CSS and Bootstrap). Currently I am working on **Front-End Web Developer nanodegree program at Udacity**, where I am getting familiar with JavaScript and the DOM, Webpack, npm, Express.js and working with APIs.
+I'm a Frontend Web Developer based in Goslar, Germany. 
 
-In my free time I am learning German!
+For the past five years, I've been working at a SaaS company building e-commerce platforms and corporate web applications. Because all of that work lives in private corporate repositories, this GitHub is a bit of a time capsule—mostly older coursework and quick side projects. 
 
-**Current skillset: HTML5, CSS3, JavaScript, Webpack, NPM, Express.js, Bootstrap, Python, RWD, Git**
+Currently, I am looking for a remote frontend role. I value sustainable work-life balance, clear communication, and getting things done reliably. 
 
-You can find me here:
-[LinkedIn](https://www.linkedin.com/in/19101990/)
-<!--
-**19101990/19101990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm working with (and on)
+My daily stack revolves around **React, Next.js, and TypeScript**. 
 
-Here are some ideas to get you started:
+Right now, my primary professional goal is deepening my understanding of these tools. I am focusing on intentional, architectural coding—moving away from just "getting it to work" and diving deeper into the actual mechanics of React and TS to write cleaner, more maintainable code. Ultimately, I'd love to transition into a full-stack role, but for now, I'm fully dedicated to mastering the modern frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My toolkit:**
+* JavaScript (ES6+) & TypeScript
+* React & Next.js
+* Headless CMS (DatoCMS, GraphQL)
+* QA & Testing (Playwright)
+
+### Offline
+I work to live, and I value my time away from the screen. I live on a farm, which provides the perfect balance to web development. 
+
+I'm a naturally curious person, which means when I find a new hobby, I tend to dive in deep. Currently, that includes woodworking, taking care of the farm, and casually playing board and card games. 
+
+### Let's connect!
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/19101990/)
+
